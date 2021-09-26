@@ -49,10 +49,11 @@
         <h1 class="text-light"><a href="https://www.bay-key.fr">Kévin Bigoni</a></h1>
         <div class="social-links mt-3 text-center">
           <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
-          <a href="https://www.facebook.com/kevin.bigoni" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.facebook.com/Kevin-Bigoni-Web-D%C3%A9veloppeur-105206068586281" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
           <!-- <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a> -->
           <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> -->
           <a href="https://www.linkedin.com/in/kevin-quillet/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://github.com/heros20" target="_blank" class="github"><i class="bx bxl-github"></i></a>
         </div>
       </div>
 
